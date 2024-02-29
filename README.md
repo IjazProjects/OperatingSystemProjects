@@ -22,7 +22,7 @@ This repository contains a collection of projects focused on core operating syst
 
 **Key Concepts**: Memory allocation strategies, heap management, system interaction.
 
-### FAT32 File System Interpreter (`FAT32`)
+### FAT32 File System Interpreter (`mfs.c`)
 
 **Objective**: Explore the FAT32 file system architecture by developing a user space shell application capable of interpreting a FAT32 file system image. The project emphasizes the importance of understanding file allocation tables, endianess, and file access mechanisms, ensuring the utility maintains the integrity of the file system image.
 
